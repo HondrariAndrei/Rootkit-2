@@ -20,7 +20,7 @@
 #include "rootkit.h"
 
 
-//LARRRY, AHMAD, GILA, NATE
+//LARRRY, AHMAD, GILA, NATE-- We are done!
 
 MODULE_LICENSE("Dual BSD/GPL");
 #define MODULE_NAME "rootkit"
